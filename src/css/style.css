@@ -1,0 +1,15 @@
+.container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.alertCustomStyle {
+  position: fixed;
+  top: 32%;
+  right: 0;
+  width: 30%;
+  margin: 0 auto;
+  z-index: 99999;
+}
